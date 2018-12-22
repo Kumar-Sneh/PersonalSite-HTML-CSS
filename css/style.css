@@ -1,0 +1,26 @@
+/*     */
+body {
+  background-color: #b8ffd0;
+}
+.Sneh{
+  border-radius: 100%;
+}
+hr{
+  border-color: #26baee;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+}
+h1{
+  color: #3f72af;
+  font-size: 40px;
+}
+h1:hover{
+  color: red;
+}
+h3{
+  color: #00b8a9;
+}
+h3:hover{
+  color: red;
+}
